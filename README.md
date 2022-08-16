@@ -1,5 +1,4 @@
-# ChatBot---Natural-Language-Processing-Project
-A project done as a requirement for completion of the Natural Language Processing course.
+# ChatBot - Natural-Language-Processing-Project.
 
 The aim of our present work is to provide a dialogue generation chatbot by using effective deep learning architecture on the Natural Language Processing (NLP). This chatbot uses movie dialogue datsets to train and then it generates dialogues based on movie conversation
 
