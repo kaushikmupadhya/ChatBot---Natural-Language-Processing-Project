@@ -11,3 +11,5 @@ References:
 [1] C. Danescu-Niculescu-Mizil and L. Lee. Chameleons in imagined conversations: A new approach to understanding
 coordination of linguistic style in dialogs. In Proceedings of the Workshop on Cognitive Modeling
 and Computational Linguistics, ACL 2011, 2011.
+
+⭐ PS: Please do not forget to drop a star on this repo, if you like it!
