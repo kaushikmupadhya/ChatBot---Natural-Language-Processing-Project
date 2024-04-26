@@ -1,6 +1,6 @@
 # ChatBot - Natural Language Processing Project
 
-Welcome to our Natural Language Processing (NLP) project focused on developing a dialogue-generation chatbot! Our goal is to create an interactive chatbot capable of generating dialogues based on movie conversations using effective deep-learning architectures.
+Welcome to our Natural Language Processing (NLP) project focused on developing a dialogue-generation chatbot! Our goal is to create an interactive chatbot that is capable of generating dialogues based on movie conversations using effective deep-learning architectures.
 
 ## Dataset
 - **Name:** Cornell Movie-Dialogs Corpus
@@ -22,3 +22,4 @@ Welcome to our Natural Language Processing (NLP) project focused on developing a
 Contributions and feedback are welcome! If you find this project useful or interesting, feel free to drop a star on this repository.
 
 ⭐ **PS: Don't forget to drop a star on this repo if you like it!** ⭐
+
