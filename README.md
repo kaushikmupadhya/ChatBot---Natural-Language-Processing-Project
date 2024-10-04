@@ -1,6 +1,8 @@
 # ChatBot - Natural Language Processing Project
 
-Welcome to our Natural Language Processing (NLP) project focused on developing a dialogue-generation chatbot! Our goal is to create an interactive chatbot that is capable of generating dialogues based on movie conversations using effective deep-learning architectures.
+Welcome to our Natural Language Processing (NLP) project, which is focused on developing a dialogue-generation chatbot! Our goal is to create an interactive chatbot capable of generating dialogues based on movie conversations using effective deep-learning architectures. So we have created a CineBot – a cutting-edge chatbot that speaks the language of cinema! Designed to simulate dynamic, lifelike conversations, this project leverages advanced deep-learning architectures to generate dialogues inspired by the rich and diverse world of movie scripts. At the core of CineBot is the Cornell Movie-Dialogs Corpus, a vast repository of cinematic dialogues that allows the chatbot to mimic authentic conversational exchanges. Whether you're building conversational agents or exploring dialogue systems, CineBot is an exciting playground for enthusiasts and NLP professionals.
+
+By integrating movie-style conversation flow into a chatbot, CineBot showcases the possibilities of modern NLP systems, blending style, tone, and context in dialogue generation.
 
 ## Dataset
 - **Name:** Cornell Movie-Dialogs Corpus
